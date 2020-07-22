@@ -49,6 +49,8 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 
 ## Projects
 
+[Link to all my public repositries on GitHub](https://github.com/benjamin-musil)
+
 ### [Line Picker](https://github.com/benjamin-musil/line-picker-webapp)
 *Mobile and Web App - React Native, Android SDK, MongoDB, Flask, Firebase*
 
