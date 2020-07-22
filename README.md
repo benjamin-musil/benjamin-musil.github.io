@@ -1,5 +1,5 @@
 ## Ben Musil - Experience and Bio
-Thank you for stopping by! My name is Ben and I am married and father to one (so far!). I was born and raised in Austin, Texas but open to relocation! I graduated from Texas A&M with a degree in Mechanical Engineering but I have steered my career towards software engineering and web development through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
+Thank you for stopping by! My name is Ben and I am married and father to one (so far!). I was born and raised in Austin, Texas but am open to relocation! I graduated from Texas A&M with a degree in Mechanical Engineering but I have steered my career towards software engineering and web development through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
 
 <img src="resources/ben-family.jpeg" alt="Picture of Ben's family"
 	title="Ben's Family" width="400px"/>
@@ -28,10 +28,10 @@ My long-term is to become first a full-stack developer and then a software archi
 
 ## Employment
 
-**[The Catholic Woodworker](https://catholicwoodworker.com/)** - *Website and Production Developer, June 2020 - Present, (Part-time)*
+**[The Catholic Woodworker](https://catholicwoodworker.com/)** - *Website and Production Developer, June 2020 - Present (Part-time)*
 
 - Set up automation of inventory management between parts coming into stock and parts of a product being consumed when it is purchased using AirTable formulae and syncs with Shopify
-- Writing a tool that takes marked cells in AirTable and interact with a third party Shopify app to automatically populate custom product field options ([click here for link to custom product page](https://catholicwoodworker.com/products/custom-rosary-designer))
+- Writing a tool that takes marked cells in AirTable and interacts with a third party Shopify app to automatically populate custom product field options ([click here for a link to custom product page](https://catholicwoodworker.com/products/custom-rosary-designer))
 
 **[Applied Materials](http://www.appliedmaterials.com/)** — *Test Engineer II, January 2018 - June 2020*
 
@@ -49,7 +49,7 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 
 ## Projects
 
-[Link to all my public repositries on GitHub](https://github.com/benjamin-musil)
+[Here is a link to all my public repositries on GitHub](https://github.com/benjamin-musil)
 
 ### [Line Picker](https://github.com/benjamin-musil/line-picker-webapp)
 *Mobile and Web App - React Native, Android SDK, MongoDB, Flask, Firebase*
@@ -94,7 +94,7 @@ Hey, I'm not a developer 100% of the time either! I love my fair share of leisur
 
 Aside from that, I am the barista dad at home. I started my coffee journey with really awful big-batch coffee at a job but I evolved through grinding my own beans for custom Keurig cups, using a french press, and finally graduated to the beloved espresso machine. My normal go-to is an Americano because I love to taste the beans and not the flavor of milk or additives distract from the beans.
 
-With that caffeine, I enjoy reading all types of books and discussing philosophy and theology. My favorite fictional series is Lord of the Rings (I can't tell you how awesome the audiobooks are by Rob Inglis) and I often have a rotation of 4 or 5 fiction and non-fiction books. Come share a local craft beer with me and we can talk about all sorts of books and movies!
+With that caffeine, I enjoy reading all types of books and discussing philosophy and theology. I am Catholic and I welcome respectful dialog with people of other viewpoints and I enjoy meaningful engagement with people of all walks of life. My favorite fictional series is Lord of the Rings (I can't tell you how awesome the audiobooks are by Rob Inglis) and I often have a rotation of 4 or 5 fictional and non-fictional books. Come share a local craft beer with me and we can talk about all sorts of books and movies!
 
 Speaking of movies, I'm a Nicolas Cage afficiando and I even hosted a Nic Cage Friday weekly event in my freshman dorm in college. My favorite Cage movie is Face/Off because you get both a good movie and an insane Nicolas Cage. Travolta is a bonus because he is basically a Nicolas Cage clone in that movie.
 
