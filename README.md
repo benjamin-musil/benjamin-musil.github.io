@@ -5,7 +5,6 @@ Thank you for stopping by! My name is Ben and I am married and father to one (so
 	title="Ben's Family" width="400px"/>
 
 **Table of Contents**
-- [About Me](#about-me)
 - [Statement of Purpose and Goals](#statement-of-purpose-and-goals)
 - [Education](#education)
 - [Employment](#employment)
@@ -46,7 +45,7 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 - Web Back-end: Node.js, MongoDB, MySQL, Flask, Express, Firebase
 - Mobile: React Native, Android SDK
 - OOP Languages: Python, C, C++, C#, Java/Kotlin
-- Tools: JIRA, GitHub, GitLab, Visual Studio, IntelliJ, National Instruments CVI, Shopify, AirTable, Balsamiq
+- Tools: JIRA, GitHub, GitLab, Visual Studio, IntelliJ, LabWindows CVI, Shopify, AirTable, Balsamiq, Postman
 
 ## Projects
 
