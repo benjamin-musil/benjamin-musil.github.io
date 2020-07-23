@@ -30,7 +30,9 @@ My long-term is to become first a full-stack developer and then a software archi
 
 **[The Catholic Woodworker](https://catholicwoodworker.com/)** - *Website and Production Developer, June 2020 - Present (Part-time)*
 
-- Set up automation of inventory management between parts coming into stock and parts of a product being consumed when it is purchased using AirTable formulae and syncs with Shopify
+- Set up automation of inventory management with AirTable formulas between
+parts purchased for stock and parts consumed for a customer-purchased
+product
 - Writing a tool that takes marked cells in AirTable and interacts with a third party Shopify app to automatically populate custom product field options ([click here for a link to custom product page](https://catholicwoodworker.com/products/custom-rosary-designer))
 
 **[Applied Materials](http://www.appliedmaterials.com/)** — *Test Engineer II, January 2018 - June 2020*
