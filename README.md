@@ -68,7 +68,8 @@ Please excuse the rough screenshots below, the focus for this project was on the
 
 ![Mobile Restaurant Search](resources/LinePicker/mobile-restaurant-search.png)
 ![Mobile Restaurant Data](resources/LinePicker/restaurant-wait-data.png)
-![Mobile Wait Time Submission](resources/LinePicker/wait-time-submission.png)
+<img src="resources/LinePicker/wait-time-submission.png" alt="Mobile Wait Time Submission screen"
+	title="Mobile Wait Time Submission" height="400"/>
 ![Desktop Restaurant Search](resources/LinePicker/restaurant-list-desktop.png)
 
 
@@ -90,6 +91,8 @@ Taking inspiration from [DekuDeals](DekuDeals.com), I want to make a modern pric
 This project is still in the beginning stages I currently have a framework setup and I'm working on a front-end mock-up. I will likely port some code for the digital tracking from the IsThereAnyDeal bot above.
 
 Planning to monetize through affiliate links so the repo is private at this moment. Will post screenshots as the project progresses.
+
+![Cards Example](resources/BoardgameHub/cards.png)
 
 ## Personal Life and Interests
 Hey, I'm not a developer 100% of the time either! I love my fair share of leisurely activity and spending time with family, friends, and strangers. If I didn't have to work, I would love to host and lead guided tours for parks around the country and even the world. There are so many national, state, and local parks across the country and not enough people take time away from being "plugged-in" to find peace of mind in nature! My favorite parks I have visited are the Yosemite, Big Bend, and Rocky Mountain National Parks. Other outdoor activities I enjoy are basketball, tennis, and running.
