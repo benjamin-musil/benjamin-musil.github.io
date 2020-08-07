@@ -62,7 +62,7 @@ I worked with three other developers on this multi-platform app. Flask supported
 
 I wrote the interactions and links between Flask and MongoDB for data storage and filtering data. I used the Google Maps API for location services and Android/iOS camera APIs for capturing images and storing those images to local storage.
 
-Please excuse the rough screenshots below, the focus for this project was on the back-end functionality.
+Please excuse the rough screenshots below, the focus for this project was on the back-end functionality. Video demo also here: [link to Line Picker Video Demo](https://drive.google.com/file/d/1E76dvm5gVsbyI6b6QIEorLhQtL56bR8V/view?usp=sharing).
 
 [Native Android app repository](https://github.com/benjamin-musil/line-picker-android) | [React Native app repository](https://github.com/benjamin-musil/line-picker-react-native)
 
@@ -71,6 +71,7 @@ Please excuse the rough screenshots below, the focus for this project was on the
 <img src="resources/LinePicker/wait-time-submission.png" alt="Mobile Wait Time Submission screen"
 	title="Mobile Wait Time Submission" height="400"/>
 ![Desktop Restaurant Search](resources/LinePicker/restaurant-list-desktop.png)
+
 
 
 ### [IsThereAnyDeal Finder](https://github.com/adamdavies001/isthereanydeal-lookup)
@@ -83,7 +84,7 @@ I am writing the server-curated wishlist portion of the bot. I have refactored c
 <img src="resources/deals-example.gif" alt="Example of the deal finder looking up a game"
 	title="Showing Deals for Wreckfest" />
 
-### Boardgame Deals and Hub (in progress)
+### Boardgame Deals and Hub
 *Web App - MERN stack*
 
 Taking inspiration from [DekuDeals](DekuDeals.com), I want to make a modern price tracker for board games while providing tools for library management. [Boardgamegeek](Boardgamegeek.com) is a popular site for board game stats but I feel it's lacking when it comes to finding games on sale and the design is a bit noisy for my taste. Other sites also track board game prices, but I would like present data such as a user score, send notifications to users, and generate recommendations for each user. I also want to bridge the gap between physical and digital players, especially with the current times of social distancing, which means tracking standalone digital games and DLC for platforms such as Tabletop Simulator.
