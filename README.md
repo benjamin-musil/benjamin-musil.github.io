@@ -1,5 +1,5 @@
 ## Ben Musil - Experience and Bio
-Thank you for stopping by! My name is Ben and I am married and father to one (so far!). I was born and raised in Austin, Texas but am open to relocation! I graduated from Texas A&M with a degree in Mechanical Engineering but I have steered my career towards software engineering and web development through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
+Thank you for stopping by! My name is Ben and I am married and father to one (so far!). I was born and raised in Austin, Texas but our family is available for relocation! I graduated from Texas A&M with a degree in Mechanical Engineering with a minor in Computer Science and I have steered my career towards software engineering through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
 
 <img src="resources/ben-family.jpeg" alt="Picture of Ben's family"
 	title="Ben's Family" width="400px"/>
@@ -24,7 +24,8 @@ My long-term is to become first a full-stack developer and then a software archi
 
 **Texas A&M University** — *B.S. Mechanical Engineering, Minor in Computer Science, December 2017*
 
-**University of Texas** — *M.S.E. Software Engineering, August 2019 - Present*
+**University of Texas** — *M.S.E. Software Engineering, August 2019 - Present*  
+Courses in Software Testing, Machine Learning, and Advanced Tools (coverd several popular web frameworks and tools including Docker, Jenkins, and NoSQL)
 
 ## Employment
 
