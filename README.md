@@ -16,37 +16,45 @@ Thank you for stopping by! My name is Ben and I am married and father to one (so
 - [Personal Life and Interests](#personal-life-and-interests)
 
 ## Statement of Purpose and Goals
-In the short-term, I am seeking a software developer position in web with opportunities within an Agile-like environment.
+In the short-term, I am seeking a Software Developer position in desktop and/or web development in an Agile environment. I'm also seeking QA Engineer opportunties as I have a passion for test automation and I have previous experience in the world of testing.
 
-My long-term is to become first a full-stack developer and then a software architect. I want to be involved with planning the layout and structure of a whole application or platform. I enjoy figuring out a structures that work with several different technologies as well as sharing that vision with a small team. In addition, I want to collaborate with other experienced developers who can help me figure out how several pieces of a platform can mesh together well for the current situation as well as future growth. I've experienced architectures that failed to plan for future expansion and it became a huge mess very quickly. I would like to prevent that so others don't have to share that frustration.
+My long-term is to become a full-stack developer and eventually a software architect or team lead. I want to be involved with planning the layout and structure of a whole application or platform. I enjoy figuring out a structures that work with several different technologies as well as sharing that vision with a small team. In addition, I want to collaborate with other experienced developers who can help me figure out how several pieces of a platform can mesh together well for the current situation as well as future growth. I've experienced architectures that failed to plan for future expansion and it became a huge mess very quickly. I would like to prevent that so others don't have to share that frustration.
 
 ## Education
 
 **Texas A&M University** — *B.S. Mechanical Engineering, Minor in Computer Science, December 2017*
 
-**University of Texas** — *M.S.E. Software Engineering, August 2019 - Present*  
-Courses in Software Testing, Machine Learning, and Advanced Tools (coverd several popular web frameworks and tools including Docker, Jenkins, and NoSQL)
+**University of Texas** — *M.S.E. Software Engineering, August 2019 - Present*    
+
+Master's-level courses taken:
+- *Software Testing* - Built a code coverage tool in Java from scratch that could be deployed to any existing Java project.
+- *Machine Learning* - As part of a project to predict winners of college football games based on team averages and play-by-play game progress, I wrote models for results of running plays and tested accuracies between using methods like XGBoost, RandomForest, and GaussianNB.
+- *Advanced Programming Tools* - Covered several popular desktop and web frameworks and tools including Docker, Jenkins, and NoSQL. Semester project details for a full-stack webapp are shared below: [Line Picker](#line-picker).
 
 ## Employment
 
 **[The Catholic Woodworker](https://catholicwoodworker.com/)** - *Website and Production Developer, June 2020 - Present (Part-time)*
 
-- Set up automation of inventory management with AirTable formulas between
-parts purchased for stock and parts consumed for a customer-purchased
-product
-- Writing a tool that takes marked cells in AirTable and interacts with a third party Shopify app to automatically populate custom product field options ([click here for a link to custom product page](https://catholicwoodworker.com/products/custom-rosary-designer))
+- Set up automation of inventory management with AirTable formulas between parts purchased for stock and parts consumed for a customer-purchased
+product.
+- Wrote Node.js tool that takes marked cells in AirTable and interacts with a third party Shopify app to automatically populate custom product field options and option logic ([click here for a link to the custom product page](https://catholicwoodworker.com/products/custom-rosary-designer)).
 
 **[Applied Materials](http://www.appliedmaterials.com/)** — *Test Engineer II, January 2018 - June 2020*
 
-- Wrote front-end components and data layers to communicate with our SQL database using C# with Visual Studio for a company-wide software application to test hardware products
-- Designed software interfaces using National Instrument’s IDE, LabWindows CVI, for use by technicians to test a variety of hardware products
-- Developed back-end functionality for software interfaces using C to communicate with product hardware
+- Wrote front-end components and data layers to communicate with our SQL database using C# with Visual Studio for a company-wide software application to test hardware products.
+- Designed software interfaces using National Instrument’s IDE, LabWindows CVI, for use by technicians to test a variety of hardware products. I also developed the back-end functionality for the interfaces with C to communicate with data acquisition devices.
+- Deployed software and hardware updates to test racks both on-site locally and at third party vendor sites that had Applied Materials test equipment. I tested real-life manufacturing conditions in the software and hardware before training and handing ownership to the local team.
+- Designed and wrote virtual test debugging suites inside software legacy platform packages to be able to test without real hardware.
+- Set up and debugged on test environments for in-house hardware test automation software with network computers.
+- Wrote manual regression test checklists per project when a hardware or software change was added.
 
 ## Skills
 In the [Projects](#projects) section below I denote what technologies I used with each project. As a complete summary of tools and languages I've used, please see the following:
 - Web Front-end: React
-- Web Back-end: Node.js, MongoDB, MySQL, Flask, Express, Firebase
+- Web Back-end: Node.js, Flask, Express, Firebase
 - Mobile: React Native, Android SDK
+- Desktop: WPF Apps  
+- Databases: SQL Server, MongoDB
 - OOP Languages: Python, C, C++, C#, Java/Kotlin
 - Tools: JIRA, GitHub, GitLab, Visual Studio, IntelliJ, LabWindows CVI, Shopify, AirTable, Balsamiq, Postman
 
