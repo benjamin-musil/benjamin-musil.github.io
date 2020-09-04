@@ -1,6 +1,8 @@
 ## Ben Musil - Experience and Bio
 Thank you for stopping by! My name is Ben and I am married and father to one (so far!). I was born and raised in Austin, Texas but our family is available for relocation! I graduated from Texas A&M with a degree in Mechanical Engineering with a minor in Computer Science and I have steered my career towards software engineering through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
 
+## [Link to my GitHub](https://github.com/benjamin-musil/)
+
 <img src="resources/ben-family.jpeg" alt="Picture of Ben's family"
 	title="Ben's Family" width="400px"/>
 
@@ -16,7 +18,7 @@ Thank you for stopping by! My name is Ben and I am married and father to one (so
 - [Personal Life and Interests](#personal-life-and-interests)
 
 ## Statement of Purpose and Goals
-In the short-term, I am seeking a Software Developer position in desktop and/or web development in an Agile environment. I'm also seeking QA Engineer opportunties as I have a passion for test automation and I have previous experience in the world of testing.
+In the short-term, I am seeking a Software Developer position in desktop and/or web development in an Agile environment. 
 
 My long-term is to become a full-stack developer and eventually a software architect or team lead. I want to be involved with planning the layout and structure of a whole application or platform. I enjoy figuring out a structures that work with several different technologies as well as sharing that vision with a small team. In addition, I want to collaborate with other experienced developers who can help me figure out how several pieces of a platform can mesh together well for the current situation as well as future growth. I've experienced architectures that failed to plan for future expansion and it became a huge mess very quickly. I would like to prevent that so others don't have to share that frustration.
 
@@ -25,6 +27,8 @@ My long-term is to become a full-stack developer and eventually a software archi
 **Texas A&M University** — *B.S. Mechanical Engineering, Minor in Computer Science, December 2017*
 
 **University of Texas** — *M.S.E. Software Engineering, August 2019 - Present*    
+
+Master's program is flexible with full-time work and tailored to fit the schedules of working professionals. [Here is a link to the specific program I am in](https://executive.engr.utexas.edu/pme/swe.php).
 
 Master's-level courses taken:
 - *Software Testing* - Built a code coverage tool in Java from scratch that could be deployed to any existing Java project.
