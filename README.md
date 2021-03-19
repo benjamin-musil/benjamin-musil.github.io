@@ -1,5 +1,5 @@
 ## Ben Musil - Experience and Bio
-Thank you for stopping by! My name is Ben and I am married and father to one (so far!). I was born and raised in Austin, Texas but our family is available for relocation! I graduated from Texas A&M with a degree in Mechanical Engineering with a minor in Computer Science and I have steered my career towards software engineering through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
+Thank you for stopping by! My name is Ben and I am married and father to two boys. I was born and raised in Austin, Texas and currently reside in the beautiful state of Montana! I graduated from Texas A&M with a B.S. in Mechanical Engineering and a minor in Computer Science. I have steered my career to software engineering through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
 
 ## [Link to my GitHub](https://github.com/benjamin-musil/)
 
@@ -8,9 +8,9 @@ Thank you for stopping by! My name is Ben and I am married and father to one (so
 
 **Table of Contents**
 - [Statement of Purpose and Goals](#statement-of-purpose-and-goals)
-- [Education](#education)
-- [Employment](#employment)
 - [Skills](#skills)
+- [Employment](#employment)
+- [Education](#education)
 - [Projects](#projects)
   - [Line Picker](#line-picker)
   - [IsThereAnyDeal Finder](#isthereanydeal-finder)
@@ -18,33 +18,45 @@ Thank you for stopping by! My name is Ben and I am married and father to one (so
 - [Personal Life and Interests](#personal-life-and-interests)
 
 ## Statement of Purpose and Goals
-In the short-term, I am seeking a Software Developer position in desktop and/or web development in an Agile environment. 
+I am seeking a front-end position in web development within an Agile environment with specialization in React.js. 
 
-My long-term is to become a full-stack developer and eventually a software architect or team lead. I want to be involved with planning the layout and structure of a whole application or platform. I enjoy figuring out a structures that work with several different technologies as well as sharing that vision with a small team. In addition, I want to collaborate with other experienced developers who can help me figure out how several pieces of a platform can mesh together well for the current situation as well as future growth. I've experienced architectures that failed to plan for future expansion and it became a huge mess very quickly. I would like to prevent that so others don't have to share that frustration.
+My long-term goal is to be a full-stack developer with an emphasis on the front-end and user experience expertise.
 
-## Education
+## Skills
+In the [Projects](#projects) section below I denote what technologies I used with each project. As a complete summary of tools and languages I've used, please see the list below:
 
-**Texas A&M University** — *B.S. Mechanical Engineering, Minor in Computer Science, December 2017*
-
-**University of Texas** — *M.S.E. Software Engineering, August 2019 - Present*    
-
-Master's program is flexible with full-time work and tailored to fit the schedules of working professionals. [Here is a link to the specific program I am in](https://executive.engr.utexas.edu/pme/swe.php).
-
-Master's-level courses taken:
-- *Software Testing* - Built a code coverage tool in Java from scratch that could be deployed to any existing Java project.
-- *Machine Learning* - As part of a project to predict winners of college football games based on team averages and play-by-play game progress, I wrote models for results of running plays and tested accuracies between using methods like XGBoost, RandomForest, and GaussianNB.
-- *Advanced Programming Tools* - Covered several popular desktop and web frameworks and tools including Docker, Jenkins, and NoSQL. Semester project details for a full-stack webapp are shared below: [Line Picker](#line-picker).
+### Web: 
+- React.js, Angular.js, Less.js 
+- Node.js, Flask, Express, Firebase
+- Azure tools including Web Jobs, App Services, Logic Apps, Service Buses, and others
+### Platforms: 
+- **Mobile**: React Native, Android SDK
+- **Desktop**: WPF Apps, .NET Core and Framework
+### Databases: 
+- MS SQL Server, MongoDB
+### Tools and Languages: 
+- TeamCity Deployers, Postman, Balsamiq, Git, JIRA, Trello
+- Javascript (ES5, ES6+), Python, C, C++, C#, Java/Kotlin
+### Environments: 
+- Visual Studio, Visual Studio Code, IntelliJ, LabWindowsCVI
+- Windows, Ubuntu, Lubuntu, Arch Linux
 
 ## Employment
+### **[Printing For Less](https://www.pfl.com/)** - *Software Engineer (Sep 2020 - Present)*
 
-**[The Catholic Woodworker](https://catholicwoodworker.com/)** - *Website and Production Developer, June 2020 - Present (Part-time)*
+Main Project: **[Personal Marketing Center](https://www.pfl.com/personal-marketing-center/)**
+- Wrote a connector application in React with REST API for customers to import assets into our internal system with automated information syncs when edits were made to the asset source
+- Converted a internal web platform and an external tool from classical React to hook-based React
+- Created new web interfaces in both React and Angular
+- Set up DevOps tools for a project: code smell, build check, PR checks, dev/stage/prod added to internal deployment scripts
 
+
+### **[The Catholic Woodworker](https://catholicwoodworker.com/)** - *Website and Production Developer, Contractor (Jun 2020 - Sep 2020)*
+- Wrote Node.js tool that takes marked cells in AirTable and interacts with a third party Shopify app to automatically populate custom product field options and option logic ([click here for a link to the custom product page](https://catholicwoodworker.com/products/custom-rosary-designer)).
 - Set up automation of inventory management with AirTable formulas between parts purchased for stock and parts consumed for a customer-purchased
 product.
-- Wrote Node.js tool that takes marked cells in AirTable and interacts with a third party Shopify app to automatically populate custom product field options and option logic ([click here for a link to the custom product page](https://catholicwoodworker.com/products/custom-rosary-designer)).
 
-**[Applied Materials](http://www.appliedmaterials.com/)** — *Test Engineer II, January 2018 - June 2020*
-
+### **[Applied Materials](http://www.appliedmaterials.com/)** — *Test Engineer II  (Jan 2018 - Jun 2020)*
 - Wrote front-end components and data layers to communicate with our SQL database using C# with Visual Studio for a company-wide software application to test hardware products.
 - Designed software interfaces using National Instrument’s IDE, LabWindows CVI, for use by technicians to test a variety of hardware products. I also developed the back-end functionality for the interfaces with C to communicate with data acquisition devices.
 - Deployed software and hardware updates to test racks both on-site locally and at third party vendor sites that had Applied Materials test equipment. I tested real-life manufacturing conditions in the software and hardware before training and handing ownership to the local team.
@@ -52,21 +64,18 @@ product.
 - Set up and debugged on test environments for in-house hardware test automation software with network computers.
 - Wrote manual regression test checklists per project when a hardware or software change was added.
 
-## Skills
-In the [Projects](#projects) section below I denote what technologies I used with each project. As a complete summary of tools and languages I've used, please see the following:
-- Web Front-end: React
-- Web Back-end: Node.js, Flask, Express, Firebase
-- Mobile: React Native, Android SDK
-- Desktop: WPF Apps  
-- Databases: SQL Server, MongoDB
-- OOP Languages: Python, C, C++, C#, Java/Kotlin
-- Tools: JIRA, GitHub, GitLab, Visual Studio, IntelliJ, LabWindows CVI, Shopify, AirTable, Balsamiq, Postman
+## Education
+**Texas A&M University** — *B.S. Mechanical Engineering, Minor in Computer Science (Dec 2017)*
 
-## Projects
+Graduate-level courses taken from the **University of Texas** *(Aug 2019 - May 2020)*
+- *Advanced Programming Tools* - Covered several popular frameworks and tools including React Native, Docker, Jenkins, and NoSQL. Semester project details for a full-stack webapp are shared below: [Line Picker](#line-picker).
+- *Software Testing* - Built a code coverage tool in Java from scratch that could be deployed to any existing Java project.
+- *Machine Learning* - As part of a project to predict winners of college football games based on team averages and play-by-play game progress, I wrote models for results of running plays and tested accuracies between using methods like XGBoost, RandomForest, and GaussianNB.
 
-[Here is a link to all my public repositries on GitHub](https://github.com/benjamin-musil)
+## Projects 
+***[Here is a link to all my public repositries on GitHub](https://github.com/benjamin-musil)***
 
-### [Line Picker](https://github.com/benjamin-musil/line-picker-webapp)
+### **[Line Picker](https://github.com/benjamin-musil/line-picker-webapp)** - 2019
 *Mobile and Web App - React Native, Android SDK, MongoDB, Flask, Firebase*
 
 Uses crowdsourced data to find out wait times of nearby restaurants based on category of food, distance to user, favorite category set by user, and other similar criteria. Users can submit wait times for specific restaurants with a picture to show the activity of the restaurant. Users also have the ability to add restaurants and check previous post history.
@@ -87,7 +96,7 @@ Please excuse the rough screenshots below, the focus for this project was on the
 
 
 
-### [IsThereAnyDeal Finder](https://github.com/adamdavies001/isthereanydeal-lookup)
+### **[IsThereAnyDeal Finder](https://github.com/adamdavies001/isthereanydeal-lookup)** - 2020
 *Discord Bot - Node.js*
 
  Looks up active deals for PC games through the [IsThereAnyDeal](IsThereAnyDeal.com) API when the bot is pinged in a Discord server. Users can add sellers to ignore. A feature for a server-curated wishlist and automated notifications is in progress. I am actively developing this with another person. This was originally a bot for our own private server, but we are making it so that it can be used by the public. Potential for income through affiliate links, however we'd have to create our own web scraper or interact with other API tools per the agreement with IsThereAnyDeal's API usage.
@@ -97,7 +106,7 @@ I am writing the server-curated wishlist portion of the bot. I have refactored c
 <img src="resources/deals-example.gif" alt="Example of the deal finder looking up a game"
 	title="Showing Deals for Wreckfest" />
 
-### Boardgame Deals and Hub
+### **Boardgame Deals and Hub** - 2020 (*Shelved*)
 *Web App - MERN stack*
 
 Taking inspiration from [DekuDeals](DekuDeals.com), I want to make a modern price tracker for board games while providing tools for library management. [Boardgamegeek](Boardgamegeek.com) is a popular site for board game stats but I feel it's lacking when it comes to finding games on sale and the design is a bit noisy for my taste. Other sites also track board game prices, but I would like present data such as a user score, send notifications to users, and generate recommendations for each user. I also want to bridge the gap between physical and digital players, especially with the current times of social distancing, which means tracking standalone digital games and DLC for platforms such as Tabletop Simulator.
@@ -107,6 +116,11 @@ This project is still in the beginning stages I currently have a framework setup
 Planning to monetize through affiliate links so the repo is private at this moment. Will post screenshots as the project progresses.
 
 ![Cards Example](resources/BoardgameHub/cards.png)
+
+### **Hypuro Fit Web App** - 2021 (In Progress)
+*Web App - MERN stack*
+
+Catholic physical and spritual fitness application. In the design and planning phase.
 
 ## Personal Life and Interests
 Hey, I'm not a developer 100% of the time either! I love my fair share of leisurely activity and spending time with family, friends, and strangers. If I didn't have to work, I would love to host and lead guided tours for parks around the country and even the world. There are so many national, state, and local parks across the country and not enough people take time away from being "plugged-in" to find peace of mind in nature! My favorite parks I have visited are the Yosemite, Big Bend, and Rocky Mountain National Parks. Other outdoor activities I enjoy are basketball, tennis, and running.
