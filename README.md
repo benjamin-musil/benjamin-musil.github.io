@@ -12,31 +12,34 @@ Thank you for stopping by! My name is Ben and I am married and father to two boy
 - [Employment](#employment)
 - [Education](#education)
 - [Projects](#projects)
-  - [Line Picker](#line-picker)
-  - [IsThereAnyDeal Finder](#isthereanydeal-finder)
-  - [Boardgame Deals and Hub](#boardgame-deals-and-hub)
 - [Personal Life and Interests](#personal-life-and-interests)
 
-## Statement of Purpose and Goals
+## Statement of Purpose
 I am seeking a front-end position in web development within an Agile environment with specialization in React.js. 
-
-My long-term goal is to be a full-stack developer with an emphasis on the front-end and user experience expertise.
 
 ## Skills
 In the [Projects](#projects) section below I denote what technologies I used with each project. As a complete summary of tools and languages I've used, please see the list below:
 
 ### Web: 
+
 - React.js, Angular.js, Less.js 
 - Node.js, Flask, Express, Firebase
 - Azure tools including Web Jobs, App Services, Logic Apps, Service Buses, and others
-### Platforms: 
+
+### Other Platforms: 
+
 - **Mobile**: React Native, Android SDK
 - **Desktop**: WPF Apps, .NET Core and Framework
+
 ### Databases: 
+
 - MS SQL Server, MongoDB
+
 ### Tools and Languages: 
+
 - TeamCity Deployers, Postman, Balsamiq, Git, JIRA, Trello
 - Javascript (ES5, ES6+), Python, C, C++, C#, Java/Kotlin
+
 ### Environments: 
 - Visual Studio, Visual Studio Code, IntelliJ, LabWindowsCVI
 - Windows, Ubuntu, Lubuntu, Arch Linux
