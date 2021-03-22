@@ -1,5 +1,5 @@
 ## Ben Musil - Experience and Bio
-Thank you for stopping by! My name is Ben and I am married and father to two boys. I was born and raised in Austin, Texas and currently reside in the beautiful state of Montana! I graduated from Texas A&M with a B.S. in Mechanical Engineering and a minor in Computer Science. I have steered my career to software engineering through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
+Thank you for stopping by! My name is Ben and I am married and father to two boys. I was born and raised in Austin, Texas and currently reside in the beautiful state of Montana! I graduated from Texas A&M with a B.S. in Mechanical Engineering and a minor in Computer Science and also took a few graduate-level courses in Software Engineering at the University of Texas. I am currently a software developer working full-time. I have steered my career to software engineering through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
 
 ## [Link to my GitHub](https://github.com/benjamin-musil/)
 
@@ -15,15 +15,15 @@ Thank you for stopping by! My name is Ben and I am married and father to two boy
 - [Personal Life and Interests](#personal-life-and-interests)
 
 ## Statement of Purpose
-I am seeking a front-end position in web development within an Agile environment with specialization in React.js. 
+I am seeking a front-end position in web development within an Agile environment with specialization in React and opportunities in Node. 
 
 ## Skills
 In the [Projects](#projects) section below I denote what technologies I used with each project. As a complete summary of tools and languages I've used, please see the list below:
 
 ### Web: 
 
-- React.js, Angular.js, Less.js 
-- Node.js, Flask, Express, Firebase
+- React, Angular, Less 
+- Node, Flask, Express, Firebase
 - Azure tools including Web Jobs, App Services, Logic Apps, Service Buses, and others
 
 ### Other Platforms: 
@@ -37,7 +37,7 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 
 ### Tools and Languages: 
 
-- TeamCity Deployers, Postman, Balsamiq, Git, JIRA, Trello
+- TeamCity Deployers, Postman, Balsamiq, SonarQube, NUnit, Git, JIRA, Trello
 - Javascript (ES5, ES6+), Python, C, C++, C#, Java/Kotlin
 
 ### Environments: 
@@ -48,10 +48,10 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 ### **[Printing For Less](https://www.pfl.com/)** - *Software Engineer (Sep 2020 - Present)*
 
 Main Project: **[Personal Marketing Center](https://www.pfl.com/personal-marketing-center/)**
-- Wrote a connector application in React with REST API for customers to import assets into our internal system with automated information syncs when edits were made to the asset source
-- Converted a internal web platform and an external tool from classical React to hook-based React
-- Created new web interfaces in both React and Angular
-- Set up DevOps tools for a project: code smell, build check, PR checks, dev/stage/prod added to internal deployment scripts
+- Wrote application with React and C# using REST API for customers to import assets into the company internal system with automated information syncs when edits were made to the asset source platform
+- Updated existing interfaces for usability and consistency in platform design with React and Angular
+- Converted an internal web platform and an external tool from classical React to hook-based React
+- Set up DevOps tools for a new project in BitBucket, TeamCity, and SonarQube including code quality gate, build checks and deployment scripts for multiple environments, and pull request checks
 
 
 ### **[The Catholic Woodworker](https://catholicwoodworker.com/)** - *Website and Production Developer, Contractor (Jun 2020 - Sep 2020)*
@@ -123,7 +123,9 @@ Planning to monetize through affiliate links so the repo is private at this mome
 ### **Hypuro Fit Web App** - 2021 (In Progress)
 *Web App - MERN stack*
 
-Catholic physical and spritual fitness application. In the design and planning phase.
+Catholic physical and spritual fitness desktop and mobile application. In the design and planning phase.
+
+[Link to the Hypuro Fit website](https://www.hypurofit.org/)
 
 ## Personal Life and Interests
 Hey, I'm not a developer 100% of the time either! I love my fair share of leisurely activity and spending time with family, friends, and strangers. If I didn't have to work, I would love to host and lead guided tours for parks around the country and even the world. There are so many national, state, and local parks across the country and not enough people take time away from being "plugged-in" to find peace of mind in nature! My favorite parks I have visited are the Yosemite, Big Bend, and Rocky Mountain National Parks. Other outdoor activities I enjoy are basketball, tennis, and running.
@@ -135,5 +137,3 @@ With that caffeine, I enjoy reading all types of books and discussing philosophy
 Speaking of movies, I'm a Nicolas Cage afficiando and I even hosted a Nic Cage Friday weekly event in my freshman dorm in college. My favorite Cage movie is Face/Off because you get both a good movie and an insane Nicolas Cage. Travolta is a bonus because he is basically a Nicolas Cage clone in that movie.
 
 I'm also a gamer at heart, both board games and video games. I have a large bookshelf dedicated to games such as Catan, Dominion, Carcassonne, King of Tokyo, Elder Sign, and many others. For video games, I'm primarily on PC but I play just about anything from retro or modern, indie or AAA. With older games I love finding community support such as the [OpenRCT2](https://openrct2.org/) project for Chris Sawyer's Roller Coaster Tycoon. I've even hosted game servers for 7 Days to Die and Roller Coaster Tycoon using my 2012 Thinkpad (which I still use because hey it works).
-
-A couple on-going projects I have (meaning I have the supplies but I haven't built yet) are transforming an Arcade1Up cabinet I bought on discount to integrate with a RetroPie and upgrade the cabinet hardware to plan virtually any arcade game. I also bought a used IKEA table that is the perfect size for a custom board game table with leaves that can be taken out for a recessed surface along with cupholders and other small board game accessories.
