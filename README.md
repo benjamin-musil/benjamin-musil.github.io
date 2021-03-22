@@ -48,20 +48,24 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 ### **[Printing For Less](https://www.pfl.com/)** - *Software Engineer (Sep 2020 - Present)*
 
 Main Project: **[Personal Marketing Center](https://www.pfl.com/personal-marketing-center/)**
-- Wrote application with React and C# using REST API for customers to import assets into the company internal system with automated information syncs when edits were made to the asset source platform
-- Updated existing interfaces for usability and consistency in platform design with React and Angular
-- Converted an internal web platform and an external tool from classical React to hook-based React
-- Set up DevOps tools for a new project in BitBucket, TeamCity, and SonarQube including code quality gate, build checks and deployment scripts for multiple environments, and pull request checks
+- Wrote a RESTful web application to import assets into the company internal system from NewsCred (content marketing platform) using React and C#.
+- Created a web job that automatically syncs asset information when assets are edited in NewsCred through a webhook in C#.
+- Updated existing interfaces for usability and consistent look-and-feel within application using React and Angular.
+- Converted an internal web application from classical React to hook-based React.
+Exposed new endpoints and wrote logic connecting to back-end using C#.
+- Wrote unit-tests for new and existing code with NUnit.
+- Set up DevOps tools for a new project in BitBucket, TeamCity, and SonarQube including code quality gate, pull request checks, build checks and deployment scripts for development, staging, and release environments.
+
 
 
 ### **[The Catholic Woodworker](https://catholicwoodworker.com/)** - *Website and Production Developer, Contractor (Jun 2020 - Sep 2020)*
-- Wrote Node.js tool that takes marked cells in AirTable and interacts with a third party Shopify app to automatically populate custom product field options and option logic ([click here for a link to the custom product page](https://catholicwoodworker.com/products/custom-rosary-designer)).
-- Set up automation of inventory management with AirTable formulas between parts purchased for stock and parts consumed for a customer-purchased
-product.
+- Wrote a RESTful Node application that fetched targeted cells in AirTable (cloud spreadsheet-database) and interacted with a third-party Shopify app to automatically populate custom product options including product design logic. ([Link to the custom product page](https://catholicwoodworker.com/products/custom-rosary-designer))
+- Created database tables in AirTable for managing part and product stock levels and website assets.
+
 
 ### **[Applied Materials](http://www.appliedmaterials.com/)** — *Test Engineer II  (Jan 2018 - Jun 2020)*
 - Wrote front-end components and data layers to communicate with our SQL database using C# with Visual Studio for a company-wide software application to test hardware products.
-- Designed software interfaces using National Instrument’s IDE, LabWindows CVI, for use by technicians to test a variety of hardware products. I also developed the back-end functionality for the interfaces with C to communicate with data acquisition devices.
+- Designed software interfaces using National Instrument’s IDE, LabWindows CVI, for use by technicians to test a variety of hardware products. I also developed the back-end functionality for the interfaces with C to communicate with data acquisition devices and run series of hardware tests with pass/fail criteria.
 - Deployed software and hardware updates to test racks both on-site locally and at third party vendor sites that had Applied Materials test equipment. I tested real-life manufacturing conditions in the software and hardware before training and handing ownership to the local team.
 - Designed and wrote virtual test debugging suites inside software legacy platform packages to be able to test without real hardware.
 - Set up and debugged on test environments for in-house hardware test automation software with network computers.
@@ -89,7 +93,7 @@ I wrote the interactions and links between Flask and MongoDB for data storage an
 
 Please excuse the rough screenshots below, the focus for this project was on the back-end functionality. Video demo also here: [link to Line Picker Video Demo](https://drive.google.com/file/d/1E76dvm5gVsbyI6b6QIEorLhQtL56bR8V/view?usp=sharing).
 
-[Native Android app repository](https://github.com/benjamin-musil/line-picker-android) | [React Native app repository](https://github.com/benjamin-musil/line-picker-react-native)
+[Web app repository](https://github.com/benjamin-musil/line-picker-webapp) | [Native Android app repository](https://github.com/benjamin-musil/line-picker-android) | [React Native app repository](https://github.com/benjamin-musil/line-picker-react-native)
 
 ![Mobile Restaurant Search](resources/LinePicker/mobile-restaurant-search.png)
 ![Mobile Restaurant Data](resources/LinePicker/restaurant-wait-data.png)
