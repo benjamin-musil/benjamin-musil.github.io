@@ -45,7 +45,7 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 - Windows, Ubuntu, Lubuntu, Arch Linux
 
 ## Employment
-### **[Printing For Less](https://www.pfl.com/)** - *Software Engineer (Sep 2020 - Present)*
+### **[Printing For Less](https://www.pfl.com/)** — *Software Engineer (Sep 2020 - Present)*
 
 Main Project: **[Personal Marketing Center](https://www.pfl.com/personal-marketing-center/)**
 - Wrote a RESTful web application to import assets into the company internal system from NewsCred (content marketing platform) using React and C#.
@@ -58,9 +58,12 @@ Exposed new endpoints and wrote logic connecting to back-end using C#.
 
 
 
-### **[The Catholic Woodworker](https://catholicwoodworker.com/)** - *Website and Production Developer, Contractor (Jun 2020 - Sep 2020)*
-- Wrote a RESTful Node application that fetched targeted cells in AirTable (cloud spreadsheet-database) and interacted with a third-party Shopify app to automatically populate custom product options including product design logic. ([Link to the custom product page](https://catholicwoodworker.com/products/custom-rosary-designer))
+### **[The Catholic Woodworker](https://catholicwoodworker.com/)** — *Web Developer, Contractor (Jun - Sep 2020)*
+- Wrote a RESTful Node application that fetched targeted cells in AirTable (cloud spreadsheet-database) and interacted with a third-party Shopify app to automatically populate custom rosary options including product design logic. 
+<br>[Link to the Custom Product Page](https://catholicwoodworker.com/products/custom-rosary-designer) 
+<br>*Note: The UI has been updated by a third-party, but the functionality appears to be the same. Below is a screenshot as of 3/30/21)*
 - Created database tables in AirTable for managing part and product stock levels and website assets.
+![Catholic Woodworker Custom Rosary Designer](resources/tcw-customdesigner.png)
 
 
 ### **[Applied Materials](http://www.appliedmaterials.com/)** — *Test Engineer II  (Jan 2018 - Jun 2020)*
@@ -75,7 +78,7 @@ Exposed new endpoints and wrote logic connecting to back-end using C#.
 **Texas A&M University** — *B.S. Mechanical Engineering, Minor in Computer Science (Dec 2017)*
 
 Graduate-level courses taken from the **University of Texas** *(Aug 2019 - May 2020)*
-- *Advanced Programming Tools* - Covered several popular frameworks and tools including React Native, Docker, Jenkins, and NoSQL. Semester project details for a full-stack webapp are shared below: [Line Picker](#line-picker).
+- *Advanced Programming Tools* - Covered several popular frameworks and tools including React Native, Docker, Jenkins, and NoSQL. Semester project details for a full-stack webapp are shared below in [Projects](#projects).
 - *Software Testing* - Built a code coverage tool in Java from scratch that could be deployed to any existing Java project.
 - *Machine Learning* - As part of a project to predict winners of college football games based on team averages and play-by-play game progress, I wrote models for results of running plays and tested accuracies between using methods like XGBoost, RandomForest, and GaussianNB.
 
@@ -127,9 +130,12 @@ Planning to monetize through affiliate links so the repo is private at this mome
 ### **Hypuro Fit Web App** - 2021 (In Progress)
 *Web App - MERN stack*
 
-Catholic physical and spritual fitness desktop and mobile application. In the design and planning phase.
+Catholic physical and spritual fitness desktop and mobile application. In the design and planning phase with code frameworks and some UI pages in progress. Wireframes, schemas, and existing UI available on request.
 
-[Link to the Hypuro Fit website](https://www.hypurofit.org/)
+[Link to the Hypuro Fit company website](https://www.hypurofit.org/)
+
+<img src="resources/HypuroFit/hypurofit-navbar.gif" alt="Navigation bar for Hypuro Fit web app"
+	title="Hypuro Fit Web App Navigation Bar" />
 
 ## Personal Life and Interests
 Hey, I'm not a developer 100% of the time either! I love my fair share of leisurely activity and spending time with family, friends, and strangers. If I didn't have to work, I would love to host and lead guided tours for parks around the country and even the world. There are so many national, state, and local parks across the country and not enough people take time away from being "plugged-in" to find peace of mind in nature! My favorite parks I have visited are the Yosemite, Big Bend, and Rocky Mountain National Parks. Other outdoor activities I enjoy are basketball, tennis, and running.
