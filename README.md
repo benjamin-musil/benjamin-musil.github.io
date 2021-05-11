@@ -137,6 +137,9 @@ Catholic physical and spritual fitness desktop and mobile application. In the de
 <img src="resources/HypuroFit/hypurofit-navbar.gif" alt="Navigation bar for Hypuro Fit web app"
 	title="Hypuro Fit Web App Navigation Bar" />
 
+<img src="resources/HypuroFit/hypurofit-workouts.gif" alt="Daily workout view for Hypuro Fit web app"
+	title="Hypuro Fit Workout View" />
+
 ## Personal Life and Interests
 Hey, I'm not a developer 100% of the time either! I love my fair share of leisurely activity and spending time with family, friends, and strangers. If I didn't have to work, I would love to host and lead guided tours for parks around the country and even the world. There are so many national, state, and local parks across the country and not enough people take time away from being "plugged-in" to find peace of mind in nature! My favorite parks I have visited are the Yosemite, Big Bend, and Rocky Mountain National Parks. Other outdoor activities I enjoy are basketball, tennis, and running.
 
