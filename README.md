@@ -1,9 +1,9 @@
 ## Ben Musil - Experience and Bio
-Thank you for stopping by! My name is Ben and I am married and father to two boys. I was born and raised in Austin, Texas and currently reside in the beautiful state of Montana! I graduated from Texas A&M with a B.S. in Mechanical Engineering and a minor in Computer Science and also took a few graduate-level courses in Software Engineering at the University of Texas. I am currently a software developer working full-time. I have steered my career to software engineering through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
+Thank you for stopping by! My name is Ben and I am married and father to two boys. I was born and raised in Austin, Texas and currently reside San Antonio! I graduated from Texas A&M with a B.S. in Mechanical Engineering and a minor in Computer Science. I also took a few graduate-level courses in Software Engineering at the University of Texas. I am currently a full-stack software engineer working remotely full-time. I have steered my career to software engineering through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
 
 ## [Link to my GitHub](https://github.com/benjamin-musil/)
 
-<img src="resources/ben-family.jpeg" alt="Picture of Ben's family"
+<img src="resources/ben-family.jpg" alt="Picture of Ben's family"
 	title="Ben's Family" width="400px"/>
 
 **Table of Contents**
@@ -15,56 +15,61 @@ Thank you for stopping by! My name is Ben and I am married and father to two boy
 - [Personal Life and Interests](#personal-life-and-interests)
 
 ## Statement of Purpose
-I am seeking a front-end position in web development within an Agile environment with specialization in React and opportunities in Node. 
+I am seeking a full-stack or front-end position in web development within an Agile environment with specialization in React and opportunities in Node or .Net. 
 
 ## Skills
 In the [Projects](#projects) section below I denote what technologies I used with each project. As a complete summary of tools and languages I've used, please see the list below:
 
 ### Web: 
 
-- React, Angular, Less 
-- Node, Flask, Express, Firebase
-- Azure tools including Web Jobs, App Services, Logic Apps, Service Buses, and others
+- React, AngularJS, Vue
+- SCSS, CSS Modules, Less 
+- Node, .Net Core and Framwork, Flask, Express
+- Azure tools including Web Jobs, App Services, Logic Apps, Service Busses, and others
 
 ### Other Platforms: 
 
 - **Mobile**: React Native, Android SDK
-- **Desktop**: WPF Apps, .NET Core and Framework
+- **Desktop**: WPF Apps, LabWindows CVI
 
 ### Databases: 
 
-- MS SQL Server, MongoDB
+- MS SQL Server, MongoDB, PostgreSQL
 
 ### Tools and Languages: 
 
 - TeamCity Deployers, Postman, Balsamiq, SonarQube, NUnit, Git, JIRA, Trello
-- Javascript (ES5, ES6+), Python, C, C++, C#, Java/Kotlin
+- Javascript (ES5, ES6+), TypeScript, C#, Python, Java/Kotlin
+- Nunit, Jest
 
 ### Environments: 
-- Visual Studio, Visual Studio Code, IntelliJ, LabWindowsCVI
+- Visual Studio, Visual Studio Code, IntelliJ, LabWindows CVI
 - Windows, Ubuntu, Lubuntu, Arch Linux
 
 ## Employment
 ### **[Printing For Less](https://www.pfl.com/)** - *Software Engineer (Sep 2020 - Present)*
 
-Main Project: **[Personal Marketing Center](https://www.pfl.com/personal-marketing-center/)**
-- Wrote a RESTful web application to import assets into the company internal system from NewsCred (content marketing platform) using React and C#.
-- Created a web job that automatically syncs asset information when assets are edited in NewsCred through a webhook in C#.
-- Updated existing interfaces for usability and consistent look-and-feel within application using React and Angular.
-- Converted an internal web application from classical React to hook-based React.
-Exposed new endpoints and wrote logic connecting to back-end using C#.
-- Wrote unit-tests for new and existing code with NUnit.
-- Set up DevOps tools for a new project in BitBucket, TeamCity, and SonarQube including code quality gate, pull request checks, build checks and deployment scripts for development, staging, and release environments.
+[Hybrid Experience](https://www.pfl.com/platform/) (Apr 2021 - Present)
+[Tactile Marketing Automation - SwagIQ](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000000pvn6EAA) (Sep 2021 - Apr 2021)
+[Personal Marketing Center](https://www.pfl.com/personal-marketing-center/) (Sep 2020 - Sep 2021)
 
-
+- Built a modern, customer-facing front-end for an existing multi-million dollar tactile marketing automation Salesforce platform using React, TypeScript, SCSS, and CSS modules.
+- Modified multiple existing marketing software products using Liquid templates, AngularJS, and C# and injected new features and pages using React.
+- Translated mockups and designs from Figma to code.
+- Wrote a RESTful web application to import assets into an internal system from a 3rd party content marketing platform with React and C#.
+- Designed schemas and wrote queries for MS SQL Server.
+- Wrote unit-tests in C# with NUnit and in React with Jest.
+- Documented how-to articles in Confluence for team members onboarding to the project and wrote release notes for internal documentation.
+- Hosted technical interviews for interns and full-time developers.
+- Communicated updates to development tasks using JIRA and Scrum agile process.
 
 ### **[The Catholic Woodworker](https://catholicwoodworker.com/)** - *Website and Production Developer, Contractor (Jun 2020 - Sep 2020)*
-- Wrote a RESTful Node application that fetched targeted cells in AirTable (cloud spreadsheet-database) and interacted with a third-party Shopify app to automatically populate custom product options including product design logic. ([Link to the custom product page](https://catholicwoodworker.com/products/custom-rosary-designer))
+- Wrote a RESTful Node application that fetched targeted cells in AirTable (cloud spreadsheet-database hybrid) and interacted with a third-party Shopify app to automatically populate custom product options including product design logic. 
 - Created database tables in AirTable for managing part and product stock levels and website assets.
-
+- The page has been updated since I worked on it, but it's about the same in essence still ([Link to the custom product page](https://catholicwoodworker.com/products/custom-rosary-designer))
 
 ### **[Applied Materials](http://www.appliedmaterials.com/)** — *Test Engineer II  (Jan 2018 - Jun 2020)*
-- Wrote front-end components and data layers to communicate with our SQL database using C# with Visual Studio for a company-wide software application to test hardware products.
+- Wrote front-end components and data layers to communicate with our SQL database using C# and XAML with Visual Studio for a company-wide software application to test hardware products.
 - Designed software interfaces using National Instrument’s IDE, LabWindows CVI, for use by technicians to test a variety of hardware products. I also developed the back-end functionality for the interfaces with C to communicate with data acquisition devices and run series of hardware tests with pass/fail criteria.
 - Deployed software and hardware updates to test racks both on-site locally and at third party vendor sites that had Applied Materials test equipment. I tested real-life manufacturing conditions in the software and hardware before training and handing ownership to the local team.
 - Designed and wrote virtual test debugging suites inside software legacy platform packages to be able to test without real hardware.
@@ -140,4 +145,4 @@ With that caffeine, I enjoy reading all types of books and discussing philosophy
 
 Speaking of movies, I'm a Nicolas Cage afficiando and I even hosted a Nic Cage Friday weekly event in my freshman dorm in college. My favorite Cage movie is Face/Off because you get both a good movie and an insane Nicolas Cage. Travolta is a bonus because he is basically a Nicolas Cage clone in that movie.
 
-I'm also a gamer at heart, both board games and video games. I have a large bookshelf dedicated to games such as Catan, Dominion, Carcassonne, King of Tokyo, Elder Sign, and many others. For video games, I'm primarily on PC but I play just about anything from retro or modern, indie or AAA. With older games I love finding community support such as the [OpenRCT2](https://openrct2.org/) project for Chris Sawyer's Roller Coaster Tycoon. I've even hosted game servers for 7 Days to Die and Roller Coaster Tycoon using my 2012 Thinkpad (which I still use).
+I'm also a gamer at heart, both board games and video games. I have a large bookshelf dedicated to games such as Catan, Dominion, Carcassonne, King of Tokyo, Elder Sign, and many others. For video games, I'm primarily on PC but I play just about anything from retro or modern, indie or AAA. With older games I love finding community support such as the [OpenRCT2](https://openrct2.org/) project for Chris Sawyer's Roller Coaster Tycoon. I've even hosted game servers for 7 Days to Die and Roller Coaster Tycoon using my 2012 Thinkpad (which I still use time to time).
