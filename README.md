@@ -50,7 +50,9 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 ### **[Printing For Less](https://www.pfl.com/)** — *Software Engineer (Sep 2020 - Present)*
 
 [Hybrid Experience](https://www.pfl.com/platform/) (Apr 2021 - Present)
+
 [Tactile Marketing Automation - SwagIQ](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000000pvn6EAA) (Sep 2021 - Apr 2021)
+
 [Personal Marketing Center](https://www.pfl.com/personal-marketing-center/) (Sep 2020 - Sep 2021)
 
 - Built a modern, customer-facing front-end for an existing multi-million dollar tactile marketing automation Salesforce platform using React, TypeScript, SCSS, and CSS modules.
