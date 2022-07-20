@@ -55,15 +55,15 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 
 [Personal Marketing Center](https://www.pfl.com/personal-marketing-center/) (Sep 2020 - Sep 2021)
 
-- Built a modern, customer-facing front-end for an existing multi-million dollar tactile marketing automation Salesforce platform using React, TypeScript, SCSS, and CSS modules.
-- Modified multiple existing marketing software products using Liquid templates, AngularJS, and C# and injected new features and pages using React.
-- Translated mockups and designs from Figma to code.
+- Built a modern, consumer-facing front-end for an existing multi-million dollar tactile marketing automation Salesforce platform using React, TypeScript, SCSS, and CSS modules.
+- Modified multiple existing marketing software products using Liquid templates, Vue, AngularJS, and C# and injected new features and pages using React.
+- Translated mockups and designs from Figma to code and collaborated with designers on features.
 - Wrote a RESTful web application to import assets into an internal system from a 3rd party content marketing platform with React and C#.
 - Designed schemas and wrote queries for MS SQL Server.
 - Wrote unit-tests in C# with NUnit and in React with Jest.
 - Documented how-to articles in Confluence for team members onboarding to the project and wrote release notes for internal documentation.
 - Hosted technical interviews for interns and full-time developers.
-- Communicated updates to development tasks using JIRA and Scrum agile process.
+- Communicated updates to development tasks with product managers using JIRA and Scrum agile process.
 
 ### **[The Catholic Woodworker](https://catholicwoodworker.com/)** - *Website and Production Developer, Contractor (Jun 2020 - Sep 2020)*
 - Wrote a RESTful Node application that fetched targeted cells in AirTable (cloud spreadsheet-database hybrid) and interacted with a third-party Shopify app to automatically populate custom product options including product design logic. 
