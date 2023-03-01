@@ -49,21 +49,22 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 ## Employment
 ### **[Printing For Less](https://www.pfl.com/)** — *Software Engineer (Sep 2020 - Present)*
 
-[Hybrid Experience](https://www.pfl.com/platform/) (Apr 2021 - Present)
+[Hybrid Experience](https://www.pfl.com/platform/platform-overview) (Apr 2021 - Present)
 
 [Tactile Marketing Automation - SwagIQ](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000000pvn6EAA) (Sep 2021 - Apr 2021)
 
 [Personal Marketing Center](https://www.pfl.com/personal-marketing-center/) (Sep 2020 - Sep 2021)
 
 - Built a modern, consumer-facing front-end for an existing multi-million dollar tactile marketing automation Salesforce platform using React, TypeScript, SCSS, and CSS modules.
+- Rewrote existing client-side queries from REST to GraphQL with the Apollo GraphQL client.
+- Contributed to a company-wide component library in React to reuse common web components across multiple codebases and exposed Storybook for QA and Design teams.
 - Modified multiple existing marketing software products using Liquid templates, Vue, AngularJS, and C# and injected new features and pages using React.
-- Translated mockups and designs from Figma to code and collaborated with designers on features.
+- Translated mockups and designs from Figma and Miro to code and collaborated with designers on features.
 - Wrote a RESTful web application to import assets into an internal system from a 3rd party content marketing platform with React and C#.
-- Designed schemas and wrote queries for MS SQL Server.
-- Wrote unit-tests in C# with NUnit and in React with Jest.
+- Wrote unit-tests in React with Jest
 - Documented how-to articles in Confluence for team members onboarding to the project and wrote release notes for internal documentation.
-- Hosted technical interviews for interns and full-time developers.
 - Communicated updates to development tasks with product managers using JIRA and Scrum agile process.
+
 
 ### **[The Catholic Woodworker](https://catholicwoodworker.com/)** - *Website and Production Developer, Contractor (Jun 2020 - Sep 2020)*
 - Wrote a RESTful Node application that fetched targeted cells in AirTable (cloud spreadsheet-database hybrid) and interacted with a third-party Shopify app to automatically populate custom product options including product design logic. 
@@ -113,9 +114,9 @@ Please excuse the rough screenshots below, the focus for this project was on the
 ### **[IsThereAnyDeal Finder](https://github.com/adamdavies001/isthereanydeal-lookup)** - 2020
 *Discord Bot - Node.js*
 
- Looks up active deals for PC games through the [IsThereAnyDeal](IsThereAnyDeal.com) API when the bot is pinged in a Discord server. Users can add sellers to ignore. A feature for a server-curated wishlist and automated notifications is in progress. I am actively developing this with another person. This was originally a bot for our own private server, but we are making it so that it can be used by the public. Potential for income through affiliate links, however we'd have to create our own web scraper or interact with other API tools per the agreement with IsThereAnyDeal's API usage.
+Looks up active deals for PC games through the [IsThereAnyDeal](IsThereAnyDeal.com) API when the bot is pinged in a Discord server. Users can add sellers to ignore. A feature for a server-curated wishlist and automated notifications is in progress. I am actively developing this with another person. This was originally a bot for our own private server, but we are making it so that it can be used by the public. Potential for income through affiliate links, however we'd have to create our own web scraper or interact with other API tools per the agreement with IsThereAnyDeal's API usage.
 
-I am writing the server-curated wishlist portion of the bot. I have refactored code to use an API endpoint once instead of multiple times. I updated the response to be able to return multiple games as well as give more info such as a cover image of the game and user reviews if they are available.
+I am writing the server-curated wishlist portion of the bot. I have refactored to reduce duplication in the API endpoints. I updated the response to be able to return multiple games as well as give more info such as a cover image of the game and user reviews if they are available.
 
 <img src="resources/deals-example.gif" alt="Example of the deal finder looking up a game"
 	title="Showing Deals for Wreckfest" />
@@ -131,7 +132,7 @@ Planning to monetize through affiliate links so the repo is private at this mome
 
 ![Cards Example](resources/BoardgameHub/cards.png)
 
-### **Hypuro Fit Web App** - 2021 (In Progress)
+### **Hypuro Fit Web App** - 2021 (*Shelved*)
 *Web App - MERN stack*
 
 Catholic physical and spritual fitness desktop and mobile application. In the design and planning phase with code frameworks and some UI pages in progress. Wireframes, schemas, and existing UI available on request.
