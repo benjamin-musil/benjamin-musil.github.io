@@ -51,7 +51,7 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 - Windows, Ubuntu, Lubuntu, Arch Linux
 
 ## Employment
-### **[Printing For Less](https://www.pfl.com/)** — *Software Engineer (Sep 2020 - Present)*
+### **[Printing For Less](https://www.pfl.com/)** — *Senior Software Engineer (Sep 2020 - Present)*
 
 [Hybrid Experience](https://www.pfl.com/platform/platform-overview) (Apr 2021 - Present)
 
