@@ -1,5 +1,5 @@
 ## Ben Musil - Experience and Bio
-Thank you for stopping by! My name is Ben and I am married and father to two boys. I was born and raised in Austin, Texas and currently reside San Antonio! I graduated from Texas A&M with a B.S. in Mechanical Engineering and a minor in Computer Science. I also took a few graduate-level courses in Software Engineering at the University of Texas. I am currently a full-stack software engineer working remotely full-time. I have steered my career to software engineering through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
+Thank you for stopping by! My name is Ben and I am married and father to two boys. I was born and raised in Austin, Texas and currently reside there after moving around a few times! I graduated from Texas A&M with a B.S. in Mechanical Engineering and a minor in Computer Science. I also took a few graduate-level courses in Software Engineering at the University of Texas. I am currently a front-end software engineer working remotely full-time. I have steered my career to software engineering through further education, taking on more responsibilities at work, and pursuing personal projects to practice those skills.
 
 ## [Link to my GitHub](https://github.com/benjamin-musil/)
 
@@ -15,7 +15,7 @@ Thank you for stopping by! My name is Ben and I am married and father to two boy
 - [Personal Life and Interests](#personal-life-and-interests)
 
 ## Statement of Purpose
-I am seeking a full-stack or front-end position in web development within an Agile environment with specialization in React and opportunities in Node or .Net. 
+I am seeking a full-stack or front-end position in web development within an Agile environment with specialization in React and opportunities in Node or similar technologies. 
 
 ## Skills
 In the [Projects](#projects) section below I denote what technologies I used with each project. As a complete summary of tools and languages I've used, please see the list below:
@@ -24,7 +24,7 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 
 - React, AngularJS, Vue
 - SCSS, CSS Modules, Less 
-- Node, .Net Core and Framwork, Flask, Express
+- Node, .Net Core and Framework, Flask, Express
 - Azure tools including Web Jobs, App Services, Logic Apps, Service Busses, and others
 
 ### Other Platforms: 
@@ -41,6 +41,10 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 - TeamCity Deployers, Postman, Balsamiq, SonarQube, NUnit, Git, JIRA, Trello
 - Javascript (ES5, ES6+), TypeScript, C#, Python, Java/Kotlin
 - Nunit, Jest
+- Storybook
+- Docker
+- Eslint, Husky, Stylelint
+- REST, GraphQL
 
 ### Environments: 
 - Visual Studio, Visual Studio Code, IntelliJ, LabWindows CVI
