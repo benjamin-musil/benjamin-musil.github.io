@@ -23,8 +23,8 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 ### Web: 
 
 - React, AngularJS, Vue
-- SCSS, CSS Modules, Less 
-- Node, .Net Core and Framework, Flask, Express
+- SCSS, CSS Modules, Less, HTML5
+- Node, .NET, Flask, Express
 - Azure tools including Web Jobs, App Services, Logic Apps, Service Busses, and others
 
 ### Other Platforms: 
@@ -34,11 +34,13 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 
 ### Databases: 
 
-- MS SQL Server, MongoDB, PostgreSQL
+- PostgreSQL, MS SQL Server, MongoDB (non sql)
 
 ### Tools and Languages: 
 
-- TeamCity Deployers, Postman, Balsamiq, SonarQube, NUnit, Git, JIRA, Trello
+- TeamCity Deployers, Postman, Balsamiq, SonarQube
+- Git, Github, Gitlab, Bitbucket
+- JIRA, Notion, Asana, Trello
 - Javascript (ES5, ES6+), TypeScript, C#, Python, Java/Kotlin
 - Nunit, Jest
 - Storybook
@@ -51,13 +53,24 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 - Windows, Ubuntu, Lubuntu, Arch Linux
 
 ## Employment
-### **[Printing For Less](https://www.pfl.com/)** — *Senior Software Engineer (Sep 2020 - Present)*
+### **[Called](https://www.called.app/)** — *Senior Frontend Engineer (Apr 2023 - Present)*
 
-[Hybrid Experience](https://www.pfl.com/platform/platform-overview) (Apr 2021 - Present)
+[Called Invite App](https://invite.called.app/)
 
-[Tactile Marketing Automation - SwagIQ](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000000pvn6EAA) (Sep 2021 - Apr 2021)
+- Engineered multiple pages and features in React for standalone web application dealing with invites and sign ups for the company mobile application, ensuring optimal responsiveness and user experience across both mobile and desktop platforms.
+- Created web-based version of public facing group chat application in React using Zustand with Sendbird and internal API
+- Wrote unit tests on the frontend with React Testing Library and vitest, reinforced code quality and reliability through tools like ESLint and Husky
+- Collaborated effectively with UX designer and product owners to prototype and refine user experiences during the design phase, ensuring alignment with user needs and project objectives.
+- Spearheaded the evaluation and selection of data visualization and BI tools, opting for Apache Superset due to its cost-effectiveness and functionality.
+Designed and implemented impactful data visualizations, incorporating dynamic filters to facilitate in-depth data analysis and decision-making processes.
 
-[Personal Marketing Center](https://www.pfl.com/personal-marketing-center/) (Sep 2020 - Sep 2021)
+### **[Printing For Less](https://www.pfl.com/)** — *Senior Software Engineer (Sep 2020 - Apr 2023)*
+
+[Hybrid Experience](https://www.pfl.com/platform/platform-overview)
+
+[Tactile Marketing Automation - SwagIQ](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000000pvn6EAA)
+
+[Personal Marketing Center](https://www.pfl.com/personal-marketing-center/)
 
 - Built a modern, consumer-facing front-end for an existing multi-million dollar tactile marketing automation Salesforce platform using React, TypeScript, SCSS, and CSS modules.
 - Rewrote existing client-side queries from REST to GraphQL with the Apollo GraphQL client.
