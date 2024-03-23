@@ -27,6 +27,10 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 - Node, .NET, Flask, Express
 - Azure tools including Web Jobs, App Services, Logic Apps, Service Busses, and others
 
+### React State Management:
+
+- Zustand, Mobx
+
 ### Other Platforms: 
 
 - **Mobile**: React Native, Android SDK
@@ -54,6 +58,10 @@ In the [Projects](#projects) section below I denote what technologies I used wit
 
 ## Employment
 ### **[Called](https://www.called.app/)** — *Senior Frontend Engineer (Apr 2023 - Present)*
+
+[Called Web App](https://web.called.app) *Currently in closed beta*
+
+- Wrote several features and views for the desktop web version of the Called app in React with Zustand in conjunction with Called internal API and Sendbird chat client SDK
 
 [Called Invite App](https://invite.called.app/)
 
@@ -99,7 +107,7 @@ Designed and implemented impactful data visualizations, incorporating dynamic fi
 ## Education
 **Texas A&M University** — *B.S. Mechanical Engineering, Minor in Computer Science (Dec 2017)*
 
-Graduate-level courses taken from the **University of Texas** *(Aug 2019 - May 2020)*
+**University of Texas** - Graduate-level courses *(Aug 2019 - May 2020)*
 - *Advanced Programming Tools* - Covered several popular frameworks and tools including React Native, Docker, Jenkins, and NoSQL. Semester project details for a full-stack webapp are shared below in [Projects](#projects).
 - *Software Testing* - Built a code coverage tool in Java from scratch that could be deployed to any existing Java project.
 - *Machine Learning* - As part of a project to predict winners of college football games based on team averages and play-by-play game progress, I wrote models for results of running plays and tested accuracies between using methods like XGBoost, RandomForest, and GaussianNB.
